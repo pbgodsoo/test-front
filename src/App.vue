@@ -32,7 +32,7 @@ const currentView = computed(() => {
   <div class="app-shell">
     <div class="hero-panel">
       <p class="eyebrow">Board Workspace</p>
-      <h1>게시글 작성, 조회, 목록을 한 흐름으로 연결한 보드 앱2</h1>
+      <h1>게시글 작성, 조회, 목록을 한 흐름으로 연결한 보드 앱3</h1>
       <p class="hero-copy">
         백엔드 API와 직접 연결되어 등록 즉시 목록과 상세에서 확인할 수 있습니다.
       </p>
